@@ -1,2 +1,2 @@
 # AZ_MOBILES
-my own site on laravel
+my own CLone site
